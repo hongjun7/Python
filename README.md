@@ -1,7 +1,1 @@
-# Python
-
-## Scipy
-
-## Matplotlib
-
-## Numpy
+# Repository for studying Python
